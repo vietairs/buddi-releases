@@ -6,6 +6,14 @@
         <description>Buddi release feed</description>
         <language>en</language>
         <item>
+            <title>0.2.25</title>
+            <pubDate>Thu, 07 May 2026 12:42:14 +0000</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>0.2.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vietairs/buddi-releases/releases/download/v0.2.25/buddi-0.2.25.dmg" length="15707334" type="application/octet-stream" sparkle:edSignature="aN+U/8mFMSuqMlkLdKxjvk80R8Bv3sSSBREDiuXXsqMfXB1J+HQ5hpX5PHePPrTsU9ArtlMBllXLVWLNBpmjBg=="/>
+        </item>
+        <item>
             <title>0.2.24</title>
             <pubDate>Thu, 07 May 2026 10:25:33 +0000</pubDate>
             <sparkle:version>79</sparkle:version>
@@ -20,14 +28,6 @@
             <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/vietairs/buddi-releases/releases/download/v0.2.23/buddi-0.2.23.dmg" length="15421570" type="application/octet-stream" sparkle:edSignature="yMEs/DDzQRv0XQdo3t9s/OAU8kwv/33qMm/rT/ICWX9bDn8YCvv5LYPrr4hjYMlLtWH6o8Lvll4HeIQYN5F/Aw=="/>
-        </item>
-        <item>
-            <title>0.2.22</title>
-            <pubDate>Wed, 06 May 2026 17:11:54 +0000</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vietairs/buddi-releases/releases/download/v0.2.22/buddi-0.2.22.dmg" length="15404514" type="application/octet-stream" sparkle:edSignature="+vbqhEoXuzwGkCe8SXRPDeBQ3yHPuwXMJDA9T2nIHYAB6rgKVnOwKEyWfOw1BPQbCADps4D5NvAGkNKcdWMIDQ=="/>
         </item>
         <item>
             <title>Version 0.1.2</title>
