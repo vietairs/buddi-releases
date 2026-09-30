@@ -3,12 +3,12 @@
     <channel>
         <title>buddi</title>
         <item>
-            <title>0.2.35</title>
-            <pubDate>Tue, 29 Sep 2026 22:17:36 +1000</pubDate>
-            <sparkle:version>90</sparkle:version>
-            <sparkle:shortVersionString>0.2.35</sparkle:shortVersionString>
+            <title>0.2.36</title>
+            <pubDate>Wed, 30 Sep 2026 23:05:17 +1000</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.2.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vietairs/buddi-releases/releases/download/v0.2.35/buddi-0.2.35.dmg" length="9392316" type="application/octet-stream" sparkle:edSignature="/1Tukbi8qkURGI8yuxLJe1TUJfwVb+UKXWveIAAgs5ycJV9SZlaNfWTzwEDk35D6/jfvLeQs0Mih4QgzZ/n0Cg=="/>
+            <enclosure url="https://github.com/vietairs/buddi-releases/releases/download/v0.2.36/buddi-0.2.36.dmg" length="9687287" type="application/octet-stream" sparkle:edSignature="zZFa/DywE4to+RLPf1oesAOp7gIJ6lZuG94Azkrzu1a2J200Q9MS8KSCU35WXA74YNZJ8HrKj3GmUl7zTyRkBg=="/>
         </item>
     </channel>
 </rss>
